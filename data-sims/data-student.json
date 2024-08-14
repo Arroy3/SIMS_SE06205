@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "3",
+    "Code": "BH00955",
+    "NameStudent": "Nguyen Thi Kieu Oanh",
+    "Major": "PHP",
+    "Gender": "Female",
+    "Adress": "HN",
+    "Class": "jin"
+  },
+  {
+    "Id": "4",
+    "Code": "BH1006",
+    "NameStudent": "Lê Thị Lan Hương",
+    "Major": "Unknown",
+    "Gender": "Male",
+    "Adress": "VP",
+    "Class": "Kua"
+  },
+  {
+    "Id": "5",
+    "Code": "S001",
+    "NameStudent": "John Doe",
+    "Major": "Python",
+    "Gender": "Male",
+    "Adress": "123 Main St",
+    "Class": "Kua"
+  }
+]
